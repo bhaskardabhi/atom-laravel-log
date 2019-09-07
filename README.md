@@ -13,7 +13,7 @@ Whenever any error will be logged into `laravel.log` or `laravel-{current_date}.
 ### disable:
 * You can disable plugin from plugin setting.
 
-![Howto](https://i.imgur.com/F5HGKAz.png)
+![Howto](https://i.imgur.com/hnXS2Lk.png)
 
 #### TODO
 * Reduce startup time
