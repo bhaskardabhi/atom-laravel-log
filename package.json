@@ -1,18 +1,8 @@
 {
   "name": "atom-laravel-log",
   "main": "./lib/atom-laravel-log",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [],
-  "repository": "https://github.com/atom/atom-laravel-log",
-  "homepage": "https://github.com/bhaskardabhi/atom-laravel-log#readme",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "activationCommands": {
-    "atom-workspace": []
-  },
   "keywords": [
     "laravel",
     "php",
@@ -21,6 +11,14 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bhaskardabhi/atom-laravel-log.git"
+  },
+  "homepage": "https://github.com/bhaskardabhi/atom-laravel-log#readme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "activationCommands": {
+    "atom-workspace": []
   },
   "dependencies": {
     "underscore": "*",
