@@ -2,7 +2,7 @@
   "name": "atom-laravel-log",
   "main": "./lib/atom-laravel-log",
   "version": "0.2.0",
-  "description": "A short description of your package",
+  "description": "View your laravel logs as Notification",
   "keywords": [
     "laravel",
     "php",
