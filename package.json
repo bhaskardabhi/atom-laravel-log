@@ -1,7 +1,7 @@
 {
   "name": "atom-laravel-log",
   "main": "./lib/atom-laravel-log",
-  "version": "0.3.0",
+  "version": "0.2.1",
   "description": "View your laravel logs as Notification",
   "keywords": [
     "laravel",
