@@ -1,5 +1,14 @@
-# Atom laravel log alert
+# Atom Laravel Log
 
-Package display alert whenever new error/info is logged into laravel.log file.
+Plugin display laravel errors as notification.
 
-Package is under development.
+Whenever any error will be logged into `laravel.log` or `laravel-{current_date}.log`, It will display it as notification. Clicking on notification will redirect you to error specific line in `log` file. 
+
+![Howto](https://i.imgur.com/zp0ILUR.gif)
+
+#### How to use:
+* Once you install the plugin, You will be ready to go. it will automatically start displaying errors.
+* You can disable it from plugin setting
+
+### <a name="donate"></a> Donate:
+* [Buy me a coffee](http://ko-fi.com/A734L98)
