@@ -5,6 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/atom/atom-laravel-log",
+  "homepage": "https://github.com/bhaskardabhi/atom-laravel-log#readme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -17,6 +18,10 @@
     "php",
     "log"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskardabhi/atom-laravel-log.git"
+  },
   "dependencies": {
     "underscore": "*",
     "node-notifier": "*"
