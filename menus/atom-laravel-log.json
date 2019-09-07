@@ -1,26 +1,6 @@
 {
   "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-laravel-log",
-        "command": "atom-laravel-log:toggle"
-      }
-    ]
+    "atom-text-editor": []
   },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-laravel-log",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atom-laravel-log:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "menu": []
 }

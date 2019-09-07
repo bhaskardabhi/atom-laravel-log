@@ -9,6 +9,14 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "activationCommands": {
+    "atom-workspace": []
+  },
+  "keywords": [
+    "laravel",
+    "php",
+    "log"
+  ],
   "dependencies": {
     "underscore": "*",
     "node-notifier": "*"
